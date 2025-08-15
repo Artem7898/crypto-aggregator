@@ -56,6 +56,5 @@ docker compose up --build
 - [ ] CI/CD → AWS ECR + App Runner
 - [ ] SLOs (p95 latency < 50ms from cache), alerts
 
-## License
-MIT
+
 
